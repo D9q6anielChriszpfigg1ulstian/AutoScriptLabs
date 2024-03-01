@@ -1,0 +1,8 @@
+__pycache__/
+*.env
+data/material_properties/
+data/molecular_simulations/
+notebooks/*.ipynb_checkpoints/
+models/*.pt
+web_platform/node_modules/
+web_platform/dist/
